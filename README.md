@@ -2,6 +2,6 @@
 
 # Install Package
 pip3 install opencv-python
-pip3 install PIL
+pip3 install pillow
 
 Thanks.
